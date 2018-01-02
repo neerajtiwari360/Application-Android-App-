@@ -7,4 +7,4 @@ Here i had ran this code in Virtual Environment to get the output. Generally any
 
 For this app i included all the files in the folder and the desired output is 
 
-![alt_text] Result.png
+![alt text](Result.png)
